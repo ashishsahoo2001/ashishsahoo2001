@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" alt="Animated Header">
 <div align="center">
   <h3>
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=+Hi+👋,+I'm+Anjan+Kumar+Das&color=cyan&center=true" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=+Hi+👋,+I'm+Ashish+Kumar+Sahoo&color=cyan&center=true" />
   </h3>
 
 <img align="centre" alt="Coding" width="100%" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/79731568097599.5b50bca477735.jpg">
